@@ -87,10 +87,3 @@ self-healing-workflow-engine/
  │   ├ monitoring-service/
  ├ frontend/                # Next.js Dashboard
 ```
-
-## 👨‍💻 Resume Points
-
-*   Architected a **self-healing distributed workflow engine** using **Python metadata-driven microservices**, achieving **99.9% reliability** via automated failure detection and exponential backoff strategies.
-*   Designed an **asynchronous event-driven architecture** with **Redis Pub/Sub** and **PostgreSQL**, decoupling services to handle high-throughput task processing.
-*   Implemented a **robust orchestration layer** capable of recovering from worker crashes and network partitions without manual intervention.
-*   Built a **real-time observability dashboard** using **Next.js**, providing deep insights into system state and workflow tracking.
