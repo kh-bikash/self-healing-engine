@@ -161,7 +161,6 @@ cd self-healing-workflow-engine
 ```
 ## 📂 Project Structure
 
-```
 self-healing-workflow-engine/
  ├ docker-compose.yml
  ├ shared/                  # Shared library (Models, Schemas, Event Bus)
