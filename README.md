@@ -24,7 +24,7 @@
 ## 🎥 Workflow Demo
 
 <p align="center">
-  <img src="worklow.gif" width="900"/>
+  <img src="worflow.gif" width="900"/>
 </p>
 
 
