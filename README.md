@@ -23,7 +23,9 @@
 
 ## 🎥 Workflow Demo
 
-https://github.com/user/repo/assets/12345/video.mp4
+<p align="center">
+  <img src="docs/workflow.gif" width="900" alt="Workflow Demo"/>
+</p>
 
 
 ## 🚀 Overview
